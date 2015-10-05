@@ -10,6 +10,7 @@ Currently, not so many languages are available due to my foreign language ignora
 
 1. Russian
 1. Hungarian
+1. German
 
 ## Todos
 
