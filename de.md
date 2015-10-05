@@ -14,7 +14,7 @@ Hey, Thomas! Wir waren nicht das einzige im Labyrinth.
 
 Was weißt du noch über WCKD?
 
-Ich weiß noch, dass Sie ihm in das Labyrinth geschickt haben.
+Ich weiß noch, dass sie mich in das Labyrinth geschickt haben.
 
 Ich erinnere mich, dass ich sah, wie meine Freunde vor meinen Augen starben.
 
@@ -42,6 +42,6 @@ Aber ihr, Kids, wurden dadraussen nicht überleben, in der Brandwüste.
 
 Was zum Teufel?
 
-Der Verlauf ihres Lebens entscheidet ueber den Weg der Menschheit.
+Der Verlauf eures Lebens entscheidet über den Weg der Menschheit.
 
 Hinein ins Licht oder in die Dunkelheit.
