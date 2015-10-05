@@ -6,7 +6,7 @@ Es wird Zeit, beginnen wir mit Phase 2.
 
 Willkommen in der Brandwüste!
 
-Die Welt dadraussen hängt an einem seidenen Farden.
+Die Welt da draußen hängt an einem seidenen Farden.
 
 Hinter dieser Tür liegt der Beginn eures neuen Lebens.
 
@@ -38,7 +38,7 @@ Was wollen die denn von uns?
 
 Thomas, das Labyrinth ist das eine.
 
-Aber ihr, Kids, wurden dadraussen nicht überleben, in der Brandwüste.
+Aber ihr, Kids, wurden da draußen nicht überleben, in der Brandwüste.
 
 Was zum Teufel?
 
